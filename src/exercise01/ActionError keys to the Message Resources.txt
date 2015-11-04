@@ -1,0 +1,13 @@
+########################################
+# Common
+########################################
+errors.header=<h3><font color="red">Validation Error</font></h3>You must
+correct the following error(s) before proceeding:<ul>
+errors.footer=</ul><hr>
+errors.prefix=<li>
+errors.suffix=</li>
+########################################
+# Exercise01 CustomerForm ActionErrors
+########################################
+error.cust.firstname.empty=First Name is Required
+error.cust.lastname.empty=Last Name is Required
