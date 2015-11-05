@@ -10,7 +10,8 @@
 			<html:base/>
 	</head>
 	
-	<body background="images/donglua.jpg">
+	<body background="images/donglua.jpg" style="
+    background-repeat: no-repeat;">
 		<div align="center">
 		
 			<h2><bean:message key="exercise01.formpage.title"/></h2>
